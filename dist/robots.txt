@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://dao.casino/sitemap.xml
+
