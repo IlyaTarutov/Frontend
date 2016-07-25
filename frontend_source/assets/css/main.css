@@ -3139,7 +3139,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/5.jpg");
+		background-image: url("images/overlay.png"), url("../../images/casino9.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3280,10 +3280,8 @@
 /* CTA */
 
 	#cta {
-		/*background: #e89980;*/
-		/*background: rgb(28,89,90);*/
-          /*background: rgb(125, 158,153);*/
-          background: rgb(98,149,184);
+          /*background: rgb(143,86,28);*/
+          background: rgb(94,159,127);
 		color: #f9e5df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
