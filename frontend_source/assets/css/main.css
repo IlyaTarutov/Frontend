@@ -2276,7 +2276,9 @@
 
 	.box {
 		/*background: #fff;*/
-		background: #f5f5f5;
+		/*background: #f5f5f5;*/
+          background: #f8f8f8;
+
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
@@ -3300,6 +3302,15 @@
      .team .description {
           text-transform: uppercase;
           margin: 0 0 0 0;
+     }
+
+     .blog .date {
+		margin: 0 0 0.1em 0;
+     }
+
+     .blog .row {
+          background-color: #f8f8f8;
+          /*background-color: #f5f5f5;*/
      }
 
      .client-list{
