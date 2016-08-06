@@ -1828,7 +1828,7 @@
 /* Basic */
 
 	body {
-		background: #f5f5f5;
+		/*background: #f5f5f5;*/
 	}
 
 	body, input, select, textarea {
@@ -2275,7 +2275,8 @@
 /* Box */
 
 	.box {
-		background: #fff;
+		/*background: #fff;*/
+		background: #f5f5f5;
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
@@ -3287,6 +3288,11 @@
 		text-align: center;
 	}
 
+	.main {
+		/*padding: 3.5em 0 4em 0;*/
+		text-align: center;
+	}
+
      .client-list{
           font-size: 1.2em;
           line-height: 1.2em;
@@ -3331,6 +3337,7 @@
                color: #646464;
           }
 
+		.main div.info-text,
 		#cta div.info-text{
 			margin-bottom: 50px;
                margin-left: auto;
