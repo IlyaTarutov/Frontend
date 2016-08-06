@@ -3293,6 +3293,15 @@
 		text-align: center;
 	}
 
+     .team .name {
+          margin: 0 0 0 0;
+     }
+
+     .team .description {
+          text-transform: uppercase;
+          margin: 0 0 0 0;
+     }
+
      .client-list{
           font-size: 1.2em;
           line-height: 1.2em;
